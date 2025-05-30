@@ -18,6 +18,8 @@ specficiations of package : die  3x3mm, thickness 0.2 material silicon
                        wirebond, material gold
                        mould covering the die , material epoxy
     ![image](https://github.com/user-attachments/assets/7c97fafc-3e2a-4cf9-a7d2-18573c1379c9)
+    ![image](https://github.com/user-attachments/assets/407b72fe-5fd7-4eb8-9f9f-27ee47e959cc)
+
     ![image](https://github.com/user-attachments/assets/fa490dc9-6229-4274-913b-29a07fa2e46e)
 
 
